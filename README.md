@@ -32,7 +32,7 @@
 
 - 💬 My username is Murasa.
 
-- 📫 Feel free to reach me out **jona13_metalml13@gmail.com**
+- 📫 Feel free to reach me out **jona13_metalml@hotmail.com**
 
 
 <!--Intro end-->
@@ -44,9 +44,12 @@
 <!-- aca podemos meter nuestras herammientas y cosas que aprendemos y/o sabemos -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,postgres,vscode,js,css,html,react,notion,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="48" height="48" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=postgres,vscode,js,css,html,react,notion,discord&perline=14" />
   </a>
 </p>
+
 
 
 <!-- Connect with me -->
