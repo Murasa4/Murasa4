@@ -29,12 +29,17 @@
 
 - 💬 My username is Murasa.
 
-- 📫 Feel free to reach me out **jona13_metalml@hotmail.com**
+- 📫 Email **jona13_metalml@hotmail.com**
 
 
 <!--Intro end-->
 
-
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Used👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 
 <!--tech stack icons-->
